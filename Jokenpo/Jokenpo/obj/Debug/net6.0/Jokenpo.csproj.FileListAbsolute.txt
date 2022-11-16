@@ -1,0 +1,15 @@
+C:\dev\csharp\logica\Jokenpo\Jokenpo\bin\Debug\net6.0\Jokenpo.exe
+C:\dev\csharp\logica\Jokenpo\Jokenpo\bin\Debug\net6.0\Jokenpo.deps.json
+C:\dev\csharp\logica\Jokenpo\Jokenpo\bin\Debug\net6.0\Jokenpo.runtimeconfig.json
+C:\dev\csharp\logica\Jokenpo\Jokenpo\bin\Debug\net6.0\Jokenpo.dll
+C:\dev\csharp\logica\Jokenpo\Jokenpo\bin\Debug\net6.0\Jokenpo.pdb
+C:\dev\csharp\logica\Jokenpo\Jokenpo\obj\Debug\net6.0\Jokenpo.csproj.AssemblyReference.cache
+C:\dev\csharp\logica\Jokenpo\Jokenpo\obj\Debug\net6.0\Jokenpo.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\csharp\logica\Jokenpo\Jokenpo\obj\Debug\net6.0\Jokenpo.AssemblyInfoInputs.cache
+C:\dev\csharp\logica\Jokenpo\Jokenpo\obj\Debug\net6.0\Jokenpo.AssemblyInfo.cs
+C:\dev\csharp\logica\Jokenpo\Jokenpo\obj\Debug\net6.0\Jokenpo.csproj.CoreCompileInputs.cache
+C:\dev\csharp\logica\Jokenpo\Jokenpo\obj\Debug\net6.0\Jokenpo.dll
+C:\dev\csharp\logica\Jokenpo\Jokenpo\obj\Debug\net6.0\refint\Jokenpo.dll
+C:\dev\csharp\logica\Jokenpo\Jokenpo\obj\Debug\net6.0\Jokenpo.pdb
+C:\dev\csharp\logica\Jokenpo\Jokenpo\obj\Debug\net6.0\Jokenpo.genruntimeconfig.cache
+C:\dev\csharp\logica\Jokenpo\Jokenpo\obj\Debug\net6.0\ref\Jokenpo.dll
