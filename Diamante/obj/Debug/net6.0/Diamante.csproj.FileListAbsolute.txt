@@ -1,0 +1,15 @@
+C:\dev\csharp\logica\Diamante\bin\Debug\net6.0\Diamante.exe
+C:\dev\csharp\logica\Diamante\bin\Debug\net6.0\Diamante.deps.json
+C:\dev\csharp\logica\Diamante\bin\Debug\net6.0\Diamante.runtimeconfig.json
+C:\dev\csharp\logica\Diamante\bin\Debug\net6.0\Diamante.dll
+C:\dev\csharp\logica\Diamante\bin\Debug\net6.0\Diamante.pdb
+C:\dev\csharp\logica\Diamante\obj\Debug\net6.0\Diamante.csproj.AssemblyReference.cache
+C:\dev\csharp\logica\Diamante\obj\Debug\net6.0\Diamante.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\csharp\logica\Diamante\obj\Debug\net6.0\Diamante.AssemblyInfoInputs.cache
+C:\dev\csharp\logica\Diamante\obj\Debug\net6.0\Diamante.AssemblyInfo.cs
+C:\dev\csharp\logica\Diamante\obj\Debug\net6.0\Diamante.csproj.CoreCompileInputs.cache
+C:\dev\csharp\logica\Diamante\obj\Debug\net6.0\Diamante.dll
+C:\dev\csharp\logica\Diamante\obj\Debug\net6.0\refint\Diamante.dll
+C:\dev\csharp\logica\Diamante\obj\Debug\net6.0\Diamante.pdb
+C:\dev\csharp\logica\Diamante\obj\Debug\net6.0\Diamante.genruntimeconfig.cache
+C:\dev\csharp\logica\Diamante\obj\Debug\net6.0\ref\Diamante.dll
