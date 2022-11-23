@@ -1,0 +1,15 @@
+C:\dev\csharp\Logica\CaixaEletronico\CaixaEletronico\bin\Debug\net6.0\CaixaEletronico.exe
+C:\dev\csharp\Logica\CaixaEletronico\CaixaEletronico\bin\Debug\net6.0\CaixaEletronico.deps.json
+C:\dev\csharp\Logica\CaixaEletronico\CaixaEletronico\bin\Debug\net6.0\CaixaEletronico.runtimeconfig.json
+C:\dev\csharp\Logica\CaixaEletronico\CaixaEletronico\bin\Debug\net6.0\CaixaEletronico.dll
+C:\dev\csharp\Logica\CaixaEletronico\CaixaEletronico\bin\Debug\net6.0\CaixaEletronico.pdb
+C:\dev\csharp\Logica\CaixaEletronico\CaixaEletronico\obj\Debug\net6.0\CaixaEletronico.csproj.AssemblyReference.cache
+C:\dev\csharp\Logica\CaixaEletronico\CaixaEletronico\obj\Debug\net6.0\CaixaEletronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\csharp\Logica\CaixaEletronico\CaixaEletronico\obj\Debug\net6.0\CaixaEletronico.AssemblyInfoInputs.cache
+C:\dev\csharp\Logica\CaixaEletronico\CaixaEletronico\obj\Debug\net6.0\CaixaEletronico.AssemblyInfo.cs
+C:\dev\csharp\Logica\CaixaEletronico\CaixaEletronico\obj\Debug\net6.0\CaixaEletronico.csproj.CoreCompileInputs.cache
+C:\dev\csharp\Logica\CaixaEletronico\CaixaEletronico\obj\Debug\net6.0\CaixaEletronico.dll
+C:\dev\csharp\Logica\CaixaEletronico\CaixaEletronico\obj\Debug\net6.0\refint\CaixaEletronico.dll
+C:\dev\csharp\Logica\CaixaEletronico\CaixaEletronico\obj\Debug\net6.0\CaixaEletronico.pdb
+C:\dev\csharp\Logica\CaixaEletronico\CaixaEletronico\obj\Debug\net6.0\CaixaEletronico.genruntimeconfig.cache
+C:\dev\csharp\Logica\CaixaEletronico\CaixaEletronico\obj\Debug\net6.0\ref\CaixaEletronico.dll
