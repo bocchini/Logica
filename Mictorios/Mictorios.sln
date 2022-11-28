@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mictorios", "Mictorios\Mictorios.csproj", "{F18E3A1C-3B9E-47DD-8E5B-F600D6CB0635}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mictorios.Tests", "Mictorios.Tests\Mictorios.Tests.csproj", "{29672292-7EBD-4C98-B5DA-B9D619A7A97E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F18E3A1C-3B9E-47DD-8E5B-F600D6CB0635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F18E3A1C-3B9E-47DD-8E5B-F600D6CB0635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F18E3A1C-3B9E-47DD-8E5B-F600D6CB0635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F18E3A1C-3B9E-47DD-8E5B-F600D6CB0635}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29672292-7EBD-4C98-B5DA-B9D619A7A97E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29672292-7EBD-4C98-B5DA-B9D619A7A97E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29672292-7EBD-4C98-B5DA-B9D619A7A97E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29672292-7EBD-4C98-B5DA-B9D619A7A97E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40465FA5-5070-4673-ABCE-0AA55333FAB6}
+	EndGlobalSection
+EndGlobal
